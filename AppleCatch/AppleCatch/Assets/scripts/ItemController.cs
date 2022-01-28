@@ -20,4 +20,6 @@ public class ItemController : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
+
+    
 }
